@@ -3,5 +3,5 @@ layout: default
 title: "Homepage"
 ---
 
-# Welcome to Grapeskin2191's official website! 
+# Welcome!
 你好！（小声
