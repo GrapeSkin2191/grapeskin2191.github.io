@@ -1,6 +1,6 @@
 ---
-layout: page
+layout: post
 title: "GrapeSkin2191"
 ---
 
-# 123
+# *Index.md*
