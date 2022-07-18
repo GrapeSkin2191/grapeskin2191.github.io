@@ -1,7 +1,8 @@
 ---
 layout: default
-title: "Homepage"
+title: "主页"
 ---
 
-# Welcome!
-你好！（小声
+# 欢迎！
+
+你好
