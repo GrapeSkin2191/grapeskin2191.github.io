@@ -1,6 +1,6 @@
 theme: jekyll-theme-midnight
 title: GrapeSkin2191的网站
-description: 这里一定会有越来越多的东西的！
+description: 这是副标题
 
 remote_theme: pages-themes/midnight@v0.2.0
 plugins:
